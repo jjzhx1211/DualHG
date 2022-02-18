@@ -4,9 +4,9 @@ This repository contains the code and datasets about the paper: (under review)
 
 ## Requirements
 
-- python==3.6
-- pytorch==1.4
-- transformers==3.0.2
+- python 3.6
+- pytorch 1.4
+- transformers 3.0.2
 
 ## Training and Testing
 
