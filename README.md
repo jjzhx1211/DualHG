@@ -1,6 +1,6 @@
 # DualHG
 
-This repository contains the code and datasets about the paper:
+This repository contains the code and datasets about the paper: (under review)
 
 ## Requirements
 
